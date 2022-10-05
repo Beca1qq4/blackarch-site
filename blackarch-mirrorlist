@@ -116,6 +116,7 @@ Server = https://ftp.halifax.rwth-aachen.de/blackarch/$repo/os/$arch
 #Server = http://ftp.linux.org.tr/blackarch/$repo/os/$arch
 #Server = https://ftp.linux.org.tr/blackarch/$repo/os/$arch
 #Server = ftp://ftp.linux.org.tr/blackarch/$repo/os/$arch
+#Server = https://mirror.rabisu.com/blackarch/$repo/os/$arch
 
 # Taiwan
 #Server = http://blackarch.cs.nctu.edu.tw/$repo/os/$arch
